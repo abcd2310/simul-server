@@ -1,7 +1,0 @@
-server_name: test server
-command:
-  #  - stdbuf
-  #- '-oL'
-  #- '-eL'
-  - python
-  - sserver/output_test.py
